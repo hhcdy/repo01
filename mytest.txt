@@ -1,4 +1,0 @@
-abcdefg
-1234567
-JavaSE
-JavaEE
